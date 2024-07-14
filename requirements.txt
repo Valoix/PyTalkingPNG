@@ -1,0 +1,9 @@
+twitchio
+pygame
+pyaudio
+os
+asyncio
+threading
+numpy
+time
+random
